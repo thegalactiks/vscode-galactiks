@@ -17,7 +17,7 @@ Welcome to the VS Code Galactiks Extension Pack! 🚀 This extension pack is des
 3. Paste the following command and press Enter:
 
 ```bash
-ext install emmanuelgautier.galactiks-extension-pack
+ext install galactiks.galactiks-extension-pack
 ```
 
 4. Once the extension pack is installed, you'll be prompted to reload VS Code to activate the extensions.
@@ -33,4 +33,4 @@ This extension pack is open source! If you have suggestions for improvements or 
 
 ## License
 
-This extension pack is licensed under the [MIT License](./LICENSE).
+This extension pack is licensed under the [MIT License](https://github.com/thegalactiks/vscode-galactiks/LICENSE).
