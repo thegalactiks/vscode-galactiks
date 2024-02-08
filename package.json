@@ -1,0 +1,19 @@
+{
+  "name": "galactiks-extension-pack",
+  "displayName": "Extension pack for Galactiks",
+  "description": "Useful extensions for bloggers and website publishers that provides markdown and contentayer support.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eliostruyf.vscode-front-matter",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
