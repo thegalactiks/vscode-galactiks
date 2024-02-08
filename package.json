@@ -1,8 +1,8 @@
 {
   "name": "galactiks-extension-pack",
-  "displayName": "Extension pack for Galactiks",
-  "description": "Useful extensions for bloggers and website publishers that provides markdown and contentayer support.",
-  "version": "0.0.1",
+  "displayName": "Extensions pack for Galactiks",
+  "description": "Useful VS Code extensions for bloggers and website publishers that provides markdown and contentayer support.",
+  "version": "0.1.0",
   "engines": {
     "vscode": "1.86.0"
   },
