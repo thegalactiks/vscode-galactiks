@@ -5,7 +5,7 @@
   "description": "Useful VS Code extensions for bloggers and website publishers that provides markdown and contentayer support.",
   "version": "0.1.0",
   "engines": {
-    "vscode": "1.86.2"
+    "vscode": "1.87.0"
   },
   "categories": [
     "Extension Packs"
